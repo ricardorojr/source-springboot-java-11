@@ -15,7 +15,7 @@ import com.fasterxml.jackson.annotation.JsonFormat;
 import com.ricardo.course.entities.enums.OrderStatus;
 
 @Entity
-@Table(name = "tb_pedido")
+@Table(name = "tb_Order")
 public class Order implements Serializable {
 	private static final long serialVersionUID = 1L;
 
