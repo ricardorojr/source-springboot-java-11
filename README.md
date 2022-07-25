@@ -9,16 +9,13 @@ https://cursojava-spring.herokuapp.com/
 
 API Rest: A aplicação consiste em uma ordem de pagamentos e cadastro de produtos.
 
-https://github.com/ricardorojr/source-springboot-java-8/blob/master/Domain_Model.png
-
-
 
 <p align="center">
-  <img src="https://github.com/ricardorojr/source-springboot-java-8/blob/master/Domain_instance.png" width="500" title="Domain Model">
+  <img src="https://github.com/ricardorojr/source-springboot-java-8/blob/master/Domain_instance.png" width="900" title="Domain Model">
 </p>
 
 <p align="center">
-<img src="https://github.com/ricardorojr/source-springboot-java-8/blob/master/Domain_instance.png" width="500" title="Domain Instance">
+<img src="https://github.com/ricardorojr/source-springboot-java-8/blob/master/Domain_instance.png" width="900" title="Domain Instance">
 </p>
 
 # Tecnologias utilizadas
