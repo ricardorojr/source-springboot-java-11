@@ -7,7 +7,7 @@
 API Rest: A aplicação consiste em uma ordem de pagamentos e cadastro de produtos.
 
 <h3> Heroku / nuvem </h3>
-Para consumo da api publica se encontra no Heroku basta utilkizar a url: https://cursojava-spring.herokuapp.com/
+Para consumo da api publica se encontra no Heroku, basta utilizar a url: https://cursojava-spring.herokuapp.com/
 
 ---
 <p align="center">
@@ -20,21 +20,19 @@ Para consumo da api publica se encontra no Heroku basta utilkizar a url: https:/
 
 
 # Tecnologias utilizadas
-## Back end
 - Java 8 https://www.oracle.com/br/java/technologies/javase/javase8-archive-downloads.html
 - Spring Boot
 - JPA / Hibernate
 - Maven
+- Postgresql
 
 ## Implantação em produção
 
 - Back end: Heroku
 - https://cursojava-spring.herokuapp.com/
 - Banco de dados: Postgresql
+---
 # Como executar o projeto
-## Back end
-Pré-requisitos: Java 8
-
 ```bash
 # clonar repositório
 git clone https://github.com/ricardorojr/source-springboot-java-8
